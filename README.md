@@ -17,7 +17,7 @@ npm install google-gmail-validator
 #### javascript
 
 ```javascript
-var validator = require("google-gmail-validator");
+let validator = require("google-gmail-validator");
 
 validator.validateGmail("saiteja@gmail.com"); // true
 
@@ -26,7 +26,7 @@ validator.validateGmail("saiteja@gmail"); //false
 
 ## Contribute
 
-Contributions welcome! Check the `LICENSE` file for more info.
+Contributions are accepted! Check the `LICENSE` file for more info.
 
 ## Meta
 
