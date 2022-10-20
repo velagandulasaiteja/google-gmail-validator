@@ -20,5 +20,7 @@ exports.validateGmail = function (param) {
     } else {
       return true;
     }
+  } else {
+    return false;
   }
 };
